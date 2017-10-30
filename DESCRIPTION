@@ -1,9 +1,11 @@
 Package: psychhelpers
-Title: What the Package Does (one line, title case)
+Title: Helper Functions for Psychological Research
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Mathew", "Ling", email = "m.ling@deakin.edu.au", role = c("aut", "cre"))
+Description: Provides functions for data munging common in psychological research. 
 Depends: R (>= 3.4.1)
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
